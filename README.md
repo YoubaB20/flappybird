@@ -4,4 +4,4 @@
   </a>  
 </p>
 
-# FlappyBird - Clone
+# FlappyBird
